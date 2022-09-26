@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color:darkslategray;
+  height: 10000px;
+}
+
+.heading {
+  text-align: left;
+  color: rgb(75, 14, 14);
+  font-style:italic;
+  font-size:50px;
+}
+
+
+.plaintext { 
+  font-size: 50px;
+  margin: 50px;
+
+
+}
+
